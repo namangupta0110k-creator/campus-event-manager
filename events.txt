@@ -14,3 +14,7 @@ Campus Events
    Date: 15 November 2026
    Description: A workshop focused on emerging technologies,
    programming tools, and practical learning.
+
+4. Meraz 
+    Date: 30 Oct - 1 Nov 2026
+    Description: cultural and technical fest of IIT bhilai.
