@@ -14,3 +14,9 @@ for managing them.
 ## Purpose
 The purpose of this project is to organize campus event information
 in a simple and structured way.
+
+## Usage
+1. Clone the repository to your computer.
+2. Read `events.txt` to view campus events and their dates.
+3. Read `organizers.txt` to view organizer details and responsibilities.
+4. Refer to `project-notes.md` for the project summary and planned features.
