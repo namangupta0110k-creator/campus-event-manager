@@ -1,1 +1,16 @@
-at least two organizers and their responsibilities.
+Campus Event Organizers
+
+1. Rahul Sharma
+   Responsibility: Event Coordinator
+   Duties: Plans the event schedule, coordinates with participants,
+   and supervises the overall organization of campus events.
+
+2. Priya Verma
+   Responsibility: Technical Coordinator
+   Duties: Manages technical equipment, arranges computers and
+   projectors, and provides technical support during events.
+
+3. Amit Kumar
+   Responsibility: Publicity Coordinator
+   Duties: Promotes events through posters, announcements, and
+   social media to encourage student participation.

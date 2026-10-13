@@ -1,1 +1,16 @@
-at least three campus events with their dates.
+Campus Events
+
+1. Coding Competition
+   Date: 20 October 2026
+   Description: A programming competition for students to test
+   their problem-solving and coding skills.
+
+2. Annual Cultural Fest
+   Date: 5 November 2026
+   Description: A cultural event featuring music, dance, drama,
+   and other student performances.
+
+3. Technical Workshop
+   Date: 15 November 2026
+   Description: A workshop focused on emerging technologies,
+   programming tools, and practical learning.
